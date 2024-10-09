@@ -1,2 +1,2 @@
 # portifolio
-Portifolio dos meus trabalhos
+Portifolio dos meus trabalhos que vou fazendo ao longo do curso na faculdade
